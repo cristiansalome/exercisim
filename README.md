@@ -1,0 +1,6 @@
+- [ ] Move ghost_gobble to a numbered folder.
+- [ ] Use the linter to clean up your return statements.
+- [ ] Why line 46+ I don't understand what you are doing here???
+- [ ] change lasagna to a python file, spell lasagna correctly.
+- [ ] Move lasagna to a numbered folder.
+- [ ] Add header info to the README file.
